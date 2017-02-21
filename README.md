@@ -11,5 +11,5 @@ Student ID:     01679623 </br>
 Email address:  Yang_Meng@student.uml.edu </br>
 
 Xmind File: 
-[点击这里你可以链接到www.google.com](http://www.google.com)<br />
+[Xmind file for Medication Help](http://www.google.com)<br />
  
