@@ -13,6 +13,6 @@ Email address: Yang_Meng@student.uml.edu </br>
 ###Xmind File: 
 [Xmind file for Medication Help](http://www.xmind.net/m/HWtT)<br />
 
-###Xmind File (New): 
+###Xmind File (revised): 
 [Xmind file for Medication Help](http://www.xmind.net/m/WrDH)<br />
  
