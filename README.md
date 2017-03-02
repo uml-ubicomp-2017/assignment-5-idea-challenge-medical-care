@@ -47,8 +47,8 @@ Email address: Yang_Meng@student.uml.edu </br>
 7) Connect directly with healthcare professionals.</br>
 8) Reminders, alerts & mobile notifications via the Pillo mobile app.</br>
 
-###What can be improved
-Considering the fact that those exsiting products are all static, we believe a mobile robot will be better. The reason is simple: people need to buy more than one devices if those products can not move around. People may stay at different places at different time, such as at 8 pm they may stay with family in the living room and then move to their bedroom 2 hours later.  </br>
+//###What can be improved
+Considering the fact that those exsiting products are all static, we believe a mobile robot will be better. The reason is simple: people need to buy more than one devices if those products can not move around. People may stay at different places at //different time, such as at 8 pm they may stay with family in the living room and then move to their bedroom 2 hours later.  </br>
 </br>
 </br>
 </br>
