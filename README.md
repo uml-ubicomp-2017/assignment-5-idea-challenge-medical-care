@@ -17,7 +17,7 @@ Email address: Yang_Meng@student.uml.edu </br>
 [Xmind file for Medication Help](http://www.xmind.net/m/6R6n)<br />
 
 ###Similar products
-#### 1.HERO 
+**1.HERO**</br> 
 **Official Website:** [https://herohealth.com/](https://herohealth.com/)</br>
 **Price:** $599 </br>
 **News:** [http://mashable.com/2016/03/08/hero-pill-dispensing-robot-hands-on](http://mashable.com/2016/03/08/hero-pill-dispensing-robot-hands-on/#IdPEVJT2auqG)</br>
