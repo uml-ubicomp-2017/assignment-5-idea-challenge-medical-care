@@ -22,9 +22,9 @@ Email address: Yang_Meng@student.uml.edu </br>
 **Price:** $599 </br>
 **News:** [http://mashable.com/2016/03/08/hero-pill-dispensing-robot-hands-on](http://mashable.com/2016/03/08/hero-pill-dispensing-robot-hands-on/#IdPEVJT2auqG)</br>
 **Selling points:** </br>
-1) Intelligent notifications:</br>
-2) Automatic restock</br>
-3) Daily insights</br>
-4) Multiple users</br>
-5) WiFi connectivity</br>
-6) Security updates</br>
+> 1) Intelligent notifications:</br>
+> 2) Automatic restock</br>
+> 3) Daily insights</br>
+> 4) Multiple users</br>
+> 5) WiFi connectivity</br>
+> 6) Security updates</br>
