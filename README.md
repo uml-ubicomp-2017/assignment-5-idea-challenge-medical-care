@@ -16,7 +16,7 @@ Email address: Yang_Meng@student.uml.edu </br>
 ###Xmind File (revised at 02/28/2017): 
 [Xmind file for Medication Help](http://www.xmind.net/m/6R6n)<br />
 
-###Similar products
+###Similar products are found (revised at 03/02/2017)
 **1.HERO**</br> ![image](https://herohealth.s3.amazonaws.com/media/images/marketing/home-meta-image-2.jpg)</br>
 **Official Website:** [https://herohealth.com/](https://herohealth.com/)</br>
 **Status:** in sale</br>
