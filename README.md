@@ -37,14 +37,14 @@ Email address: Yang_Meng@student.uml.edu </br>
 **Video:** https://www.youtube.com/watch?v=QjJ_GffiNEE</br>
 **News:** http://www.mirror.co.uk/news/weird-news/pillo-robot-order-dispense-your-8352634</br>
 **What Pillo can do:**</br>
->1) Make the management of complex medication regimens easy for more than one users, and by doing so they will not miss a dose.</br>
->2) Answer health-related questions, such as how many calories are in a celery stick.</br>
->3) Say hello in the morning, just like a human being.</br>
->4) Secure storage and dispensing of vitamins and medication.</br>
->5) Notify elers' caretaker in case of an emergency like, such as son will receive a notice on cell phone if father forgot to take his heart mediction.</br>
->6) Synchronize with the wearable and wireless devices to share the wellness data.</br>
->7) Connect directly with healthcare professionals.</br>
->8) Reminders, alerts & mobile notifications via the Pillo mobile app.</br>
+1) Make the management of complex medication regimens easy for more than one users, and by doing so they will not miss a dose.</br>
+2) Answer health-related questions, such as how many calories are in a celery stick.</br>
+3) Say hello in the morning, just like a human being.</br>
+4) Secure storage and dispensing of vitamins and medication.</br>
+5) Notify elers' caretaker in case of an emergency like, such as son will receive a notice on cell phone if father forgot to take his heart mediction.</br>
+6) Synchronize with the wearable and wireless devices to share the wellness data.</br>
+7) Connect directly with healthcare professionals.</br>
+8) Reminders, alerts & mobile notifications via the Pillo mobile app.</br>
 </br>
 </br>
 </br>
