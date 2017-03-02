@@ -18,7 +18,7 @@ Email address: Yang_Meng@student.uml.edu </br>
 
 ###Similar products
 #### 1.HERO 
-Official Website:[https://herohealth.com/](https://herohealth.com/)</br>
+[b]Official Website:[/b] [https://herohealth.com/](https://herohealth.com/)</br>
 Price: $599 </br>
 News: [http://mashable.com/2016/03/08/hero-pill-dispensing-robot-hands-on](http://mashable.com/2016/03/08/hero-pill-dispensing-robot-hands-on/#IdPEVJT2auqG)</br>
 Selling points: </br>
