@@ -17,7 +17,7 @@ Email address: Yang_Meng@student.uml.edu </br>
 [Xmind file for Medication Help](http://www.xmind.net/m/6R6n)<br />
 
 ###Similar products
-**1.HERO**</br> ![image](https://herohealth.s3.amazonaws.com/media/images/marketing/home-meta-image-2.jpg)
+**1.HERO**</br> ![image](https://herohealth.s3.amazonaws.com/media/images/marketing/home-meta-image-2.jpg)</br>
 **Official Website:** [https://herohealth.com/](https://herohealth.com/)</br>
 **Status:** in sale</br>
 **Price:** $599 </br>
@@ -31,6 +31,7 @@ Email address: Yang_Meng@student.uml.edu </br>
  6) Security updates</br>
 </br>
 **2.Pillo**</br>
+![image](http://static2.businessinsider.com/image/577679cadd0895892b8b4720/this-creepy-pharmacy-robot-keeps-track-of-your-medication.jpg)</br>
 **Official Website:** [http://pillohealth.com](https://pillohealth.com/)</br>
 **Status:** under development</br>
 **Potential Release Time:** summer 2018</br>
