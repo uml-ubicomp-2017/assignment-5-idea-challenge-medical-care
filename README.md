@@ -28,7 +28,7 @@ Email address: Yang_Meng@student.uml.edu </br>
  3) Daily insights</br>
  4) Multiple users</br>
  5) WiFi connectivity</br>
-> 6) Security updates</br>
+ 6) Security updates</br>
 </br>
 **2.Pillo**</br>
 **Official Website:** [http://pillohealth.com](https://pillohealth.com/)</br>
