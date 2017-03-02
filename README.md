@@ -17,7 +17,7 @@ Email address: Yang_Meng@student.uml.edu </br>
 [Xmind file for Medication Help](http://www.xmind.net/m/6R6n)<br />
 
 ###Similar products
-**1.HERO**</br> ![github](https://github.com/myishh/LeetCode/blob/master/Hero.jpg “github”)
+**1.HERO**</br> ![image](https://github.com/myishh/LeetCode/blob/master/Hero.jpg “image”)
 **Official Website:** [https://herohealth.com/](https://herohealth.com/)</br>
 **Status:** in sale</br>
 **Price:** $599 </br>
